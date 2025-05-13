@@ -1,7 +1,5 @@
 package modelos;
-
 import java.util.Scanner;
-
 public class Empleado {
     private String nombre;
     private int edad;

@@ -2,7 +2,6 @@ package aplicacion;
 
 import modelos.Empleado;
 import modelos.Planilla;
-
 import java.util.Scanner;
 
 public class Main {
