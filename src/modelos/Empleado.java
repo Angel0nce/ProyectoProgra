@@ -37,3 +37,5 @@ public class Empleado {
         return "Empleado{nombre='" + nombre + "', edad=" + edad + ", salario=" + salario + '}';
     }
 }
+
+
